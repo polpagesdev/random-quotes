@@ -94,8 +94,7 @@ body {
   opacity: 0.9;
 }
 
-#quote-box .buttons .button#tweet-quote,
-#quote-box .buttons .button#tumblr-quote {
+#quote-box .buttons .button#tweet-quote {
   float: left;
   padding: 0px;
   padding-top: 8px;
